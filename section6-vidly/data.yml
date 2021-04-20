@@ -1,0 +1,11 @@
+---
+name: The Docker Course
+price: 150
+is_pub: true
+tag: 
+  - software
+  - devops
+
+author: 
+    first_name: Mosh
+    last_name: Hamedani
